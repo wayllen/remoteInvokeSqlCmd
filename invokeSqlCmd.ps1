@@ -1,4 +1,3 @@
-
 # For use "Invoke-Sqlcmd" command in powershell v1.0, you need to register below two dlls after install sql server 2008R2.
 set-alias installutil $env:windir\microsoft.net\framework\v2.0.50727\installutil
 
